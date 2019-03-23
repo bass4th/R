@@ -3,3 +3,9 @@ gigigig
 wkf
 f
 f
+echo "# stock" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/bass4th/stock.git
+git push -u origin master
