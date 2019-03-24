@@ -1,4 +1,5 @@
-dkdkdkdk
+commit 해보자
+
 gigigig
 wkf
 f
@@ -9,3 +10,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/bass4th/stock.git
 git push -u origin master
+
