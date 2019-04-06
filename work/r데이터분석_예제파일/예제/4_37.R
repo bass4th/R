@@ -1,0 +1,5 @@
+x <- c( 1,2,1,4,5,4,5,2,3,5,2,6,7,3,7,8,6,5,4,7,7,6,5,7,8,9,8)
+par(mfrow=c(1,2)) 
+hist(x)
+hist(x, probability=T, main="Histogram with density line")  
+lines(density(x))

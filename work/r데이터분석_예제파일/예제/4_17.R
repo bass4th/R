@@ -1,0 +1,5 @@
+plot(10:1)
+par(new=T)
+plot(1:10)
+par(new=T) 
+plot(c(6,6,6,6,6), type="o", col="red")

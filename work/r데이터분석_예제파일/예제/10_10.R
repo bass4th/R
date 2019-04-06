@@ -1,0 +1,1 @@
+plot(f2$figure, type="b", xaxt="n", xlab="")

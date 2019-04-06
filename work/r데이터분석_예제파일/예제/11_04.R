@@ -1,0 +1,6 @@
+d3SimpleNetwork(NetworkData, width=400, height=250, file="test1.html")
+shell.exec("test1.html")
+d3SimpleNetwork(NetworkData, width=400, height=250, file="test1.html", fontsize=15)
+shell.exec("test1.html")
+d3SimpleNetwork(NetworkData, width=400, height=250, file="test1.html", fontsize=15, linkColour = "#FEC44F")
+shell.exec("test1.html")

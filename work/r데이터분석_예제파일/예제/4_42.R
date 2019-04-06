@@ -1,0 +1,1 @@
+bwplot(mag~depth.cat, data=quakes, main="Depth and Strength Relationship")

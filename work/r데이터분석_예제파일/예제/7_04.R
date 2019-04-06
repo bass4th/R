@@ -1,0 +1,5 @@
+split.screen(c(1,2))
+screen(1)
+hist(salary$Incentive)
+screen(2)
+hist(salary$Salary)

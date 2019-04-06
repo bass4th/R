@@ -1,0 +1,1 @@
+cloud(mag~lat*long, data=quakes, sub="Magnitude With Longitude and Lattide")

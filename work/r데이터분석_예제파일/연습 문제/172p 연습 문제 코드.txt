@@ -1,0 +1,5 @@
+1.
+legend(0.5,1,c("Mond", "Tue", "Wed", "Thu", "Fri", "Sat"), cex=0.8,  fill=rainbow(length(T_sales)))
+
+2.
+pie3D(T_sales,main="주간 매출 변동", col=rainbow(length(T_sales)), cex=0.8,  labels=label, explode=0.05)

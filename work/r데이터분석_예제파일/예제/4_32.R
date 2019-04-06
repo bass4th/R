@@ -1,0 +1,5 @@
+plot.new()
+plot(-4:4, -4:4, type="n") 
+points(rnorm(200), rnorm(200), pch="+", col="red") 
+par(new=T)  
+points(rnorm(200), rnorm(200), pch="o", col="cyan") 

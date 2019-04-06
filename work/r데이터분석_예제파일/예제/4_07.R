@@ -1,0 +1,10 @@
+split.screen(c(2,3))
+
+screen(3)
+plot(1:10)
+screen(4)
+plot(10:1)
+screen(1)
+plot(1:100)
+screen(6)
+plot(100:1)
